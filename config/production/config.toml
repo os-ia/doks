@@ -1,1 +1,2 @@
-canonifyURLs = false
+baseUrl = 'https://os-ia.github.io/doks/'
+canonifyURLs = true
